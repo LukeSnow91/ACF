@@ -1,0 +1,24 @@
+{
+"name": "lukesnow91/advanced-custom-fields", "description": "",
+"keywords": [
+
+"wordpress", "plugin"
+],
+
+"homepage":
+"https://github.com/lukesnow91/advanced-custom-fields",
+"authors": [
+
+{
+"name": "advanced-custom-fields", "homepage":
+"https://eileenlue.com"
+}
+
+],
+
+"type": "wordpress-plugin", "require": {
+"php": ">5.6"
+
+}
+
+}
