@@ -1,16 +1,16 @@
 {
-"name": "lukesnow91/advanced-custom-fields", "description": "",
+"name": "lukesnow91/acf", "description": "",
 "keywords": [
 
 "wordpress", "plugin"
 ],
 
 "homepage":
-"https://github.com/lukesnow91/advanced-custom-fields",
+"https://github.com/lukesnow91/acf",
 "authors": [
 
 {
-"name": "advanced-custom-fields", "homepage":
+"name": "acf", "homepage":
 "https://eileenlue.com"
 }
 
